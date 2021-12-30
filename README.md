@@ -1,0 +1,1 @@
+# FANUC_KAREL_BGlogic
